@@ -1,0 +1,5 @@
+button.active{
+    background: #ccc;
+    /* border: none; */
+    font-weight: 600;
+}
